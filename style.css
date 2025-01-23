@@ -1,0 +1,38 @@
+.sozlar1 {
+    display: flex;
+    gap: 40px;
+    padding: 20px 80px;
+    justify-content: end;
+}
+
+.sozrasm {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding: 20px 100px;
+}
+.sozrasm .rasm1 img{
+    top: 210px;
+    width: 243px;
+    height: 243px;
+}
+.sozrasm .sozlar2 p{
+    width: 497px;
+    height: 66px;
+    top: 373px;
+}
+.sozrasm .sozlar2 h1{
+    display: inline;
+}
+.sozrasm .sozlar2 button{
+    background-color: #FF6464;
+    width: 208px;
+    height: 47px;
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
+.div2{
+    background-color: #EDF7FA;
+    
+}
